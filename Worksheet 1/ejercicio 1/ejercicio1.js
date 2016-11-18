@@ -12,6 +12,6 @@ window.onload = function () {
     }
 
     pTexto.innerHTML = "Numero de enlaces: " + enlaces.length + ", direccion del penultimo enlace: " + enlaces[2] +
-     ", numero de enlaces de google: " + cont + ", numero de enlaces del tercer parrafo: " + enlacesParrafo.length;
-	
+     ", numero de enlaces de google: " + cont + ", numero de enlaces del tercer parrafo: " + enlacesParrafo.length; 
+
 };
