@@ -133,5 +133,5 @@ window.onload = function () {
     });
 
     var juego = new Juego();
-    juego.start(); 
+    juego.start();
 };
