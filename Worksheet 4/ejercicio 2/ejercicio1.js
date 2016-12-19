@@ -39,7 +39,7 @@ function drawChart() {
     title: 'Representación en el congreso',
     is3D: true,
     slices: {
-            0: { color: 'blue' },
+            0: { color: 'blue' ,offset : 0.2},
             1: { color: 'red' },
             2: { color: 'purple' },
             3: { color: 'orange' },
